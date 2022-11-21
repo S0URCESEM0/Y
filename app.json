@@ -2,13 +2,13 @@
     "name": "Sedthon",
     "description": "User bot for telegram !",
     "stack": "container",
-    "repository": "https://github.com/SOURCESEM0/D",
+    "repository": "https://github.com/S0URCESEM0/Y",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/SOURCESEM0/D",
+    "website": "https://github.com/S0URCESEM0/Y",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
